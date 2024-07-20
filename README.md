@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Cover Letter Customizer** is a Python script designed to automate the process of tailoring cover letters for job applications. This script replaces placeholders in a template cover letter with predefined values such as the company name, position, date, and job function. By automating this process, the script helps create personalized cover letters efficiently, ensuring that each letter is specifically tailored to the job and company. The final customized cover letter is then converted to a PDF file, ready to deliver.
+**Cover Letter Customizer** is a Python script designed to automate the process of tailoring cover letters for job applications. This script replaces placeholders in a template cover letter with predefined values such as the company name, position, date, and job function. By automating this process, the script helps create personalized cover letters efficiently, ensuring that each letter is specifically tailored to the job and company. The final customized cover letter is then converted to a PDF file, ready to deliver!
 
 ## Features
 
@@ -35,6 +35,7 @@
 
 2. **Modify the Script**:
    - Open `customize_cover_letter.py` and update the placeholders with the desired values.
+     
    ```
    # Example usage
    template_path = 'template.docx'
