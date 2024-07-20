@@ -36,14 +36,14 @@
 2. **Modify the Script**:
    - Open `customize_cover_letter.py` and update the placeholders with the desired values.
 
-   `         
+   ```         
    dictionary_replacement = {
        'DATE': '21st July 2024',
        'POSITION': 'Software Engineer',
        'COMPANY': 'Google',
        'FUNCTION': 'provide innovative software solutions'
    }
-   `
+   ```
 
 4. **Run the Script**:
 
