@@ -37,10 +37,7 @@
    - Open `customize_cover_letter.py` and update the placeholders with the desired values.
 
    ```
-   # Path to the original document
    doc_path = 'Template.docx'  
-   
-   # Path to save the modified document
    output_path = 'Cover-Letter.docx' 
              
    # Dictionary of words to be replaced          
