@@ -1,4 +1,4 @@
-# Cover Letter Customizer 📚
+# Cover Letter Customizer📋
 
 ## Overview
 
@@ -35,7 +35,7 @@
 
 2. **Modify the Script**:
    - Open `customize_cover_letter.py` and update the placeholders with the desired values.
-
+   ```
    # Example usage
    template_path = 'template.docx'
    replacements = {
