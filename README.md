@@ -36,10 +36,7 @@
 2. **Modify the Script**:
    - Open `customize_cover_letter.py` and update the placeholders with the desired values.
 
-   ```
-   doc_path = 'Template.docx'  
-   output_path = 'Cover-Letter.docx' 
-             
+   ```            
    # Dictionary of words to be replaced          
    dictionary_replacement = {
        'DATE': '21st July 2024',
