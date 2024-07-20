@@ -35,8 +35,10 @@
 
 2. **Modify the Script**:
    - Open `customize_cover_letter.py` and update the placeholders with the desired values.
-   ```
-            
+
+
+
+   ```         
    # Dictionary of words to be replaced          
    dictionary_replacement = {
        'DATE': '21st July 2024',
