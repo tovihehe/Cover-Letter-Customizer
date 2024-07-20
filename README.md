@@ -16,8 +16,8 @@
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/cover-letter-customizer.git
-   cd cover-letter-customizer
+   git clone https://github.com/your-username/Cover-Letter-Customizer.git
+   cd Cover-Letter-Customizer
    ```
 
 2. **Install Dependencies**:
@@ -25,7 +25,7 @@
    This script requires Python to run. Install the necessary packages using `pip`:
 
    ```bash
-   pip install python-docx fpdf
+   pip install requirements.txt
    ```
 
 ## Usage
@@ -36,9 +36,9 @@
 2. **Modify the Script**:
    - Open `customize_cover_letter.py` and update the placeholders with the desired values.
      
+
    ```
-   #### Example usage ####
-   
+
    # Path to the original document
    doc_path = 'Template.docx'  
    
@@ -61,7 +61,7 @@
    python customize_cover_letter.py
    ```
 
-   The script will generate a customized cover letter in `custom_cover_letter.docx` and convert it to PDF format as `custom_cover_letter.pdf`.
+   The script will generate a customized cover letter in `Cover-Letter.docx` and convert it to PDF format as `Cover-Letter.pdf`.
 
 ## Example Template
 
