@@ -31,7 +31,7 @@
 ## Usage
 
 1. **Prepare Your Template**:
-   - Create a Word document (`template.docx`) with placeholders for `COMPANY`, `POSITION`, `FUNCTION`, and `DATE`.
+   - Create a Word document (`Template.docx`) with placeholders for `COMPANY`, `POSITION`, `FUNCTION`, and `DATE`.
 
 2. **Modify the Script**:
    - Open `customize_cover_letter.py` and update the placeholders with the desired values.
