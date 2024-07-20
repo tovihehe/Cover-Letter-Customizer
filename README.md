@@ -7,7 +7,7 @@
 ## Features
 
 - **Replace Placeholders**: Automatically replace placeholders in a cover letter template with specific values.
-- **Customizable Fields**: Easily set predefined words for key fields such as `COMPANY`, `POSITION`, `FUNCTION`, and `DATE`.
+- **Customizable Fields**: Easily set predefined values for key fields like `COMPANY`, `POSITION`, `FUNCTION`, and `DATE`.
 - **Preserve Formatting**: Maintain the original formatting and structure of the cover letter.
 - **PDF Conversion**: Convert the customized cover letter to PDF format for professional presentation.
 
@@ -38,7 +38,6 @@
      
 
    ```
-
    # Path to the original document
    doc_path = 'Template.docx'  
    
@@ -52,7 +51,6 @@
        'COMPANY': 'Google',
        'FUNCTION': 'provide innovative software solutions'
    }
-   
    ```
 
 4. **Run the Script**:
