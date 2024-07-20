@@ -39,8 +39,7 @@
 
 
    ```         
-   # Dictionary of words to be replaced          
-   dictionary_replacement = {
+    dictionary_replacement = {
        'DATE': '21st July 2024',
        'POSITION': 'Software Engineer',
        'COMPANY': 'Google',
