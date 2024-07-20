@@ -35,10 +35,8 @@
 
 2. **Modify the Script**:
    - Open `customize_cover_letter.py` and update the placeholders with the desired values.
-     
 
-   ```
-   # Path to the original document
+   ```# Path to the original document
    doc_path = 'Template.docx'  
    
    # Path to save the modified document
@@ -59,11 +57,11 @@
    python customize_cover_letter.py
    ```
 
-   The script will generate a customized cover letter in `Cover-Letter.docx` and convert it to PDF format as `Cover-Letter.pdf`.
+   The script will generate a customized cover letter and convert it to PDF format as `Cover-Letter.pdf`.
 
 ## Example Template
 
-Your `template.docx` should include placeholders like:
+Your `Template.docx` should include placeholders like:
 
 ```
 I am very thrilled to be working with COMPANY on your top-notch projects.
